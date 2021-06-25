@@ -21,3 +21,7 @@ WORK
 8. Делаем git push
 9. Заходим в gitlab в раздел CI/CD - pipelines, чекаем как у нас прошли этам загрузки на репозиторий
 10. Чекаем наш сайт на gitlab.
+
+JENKINS Admin
+Username: admin
+Password: qweqwe123123
