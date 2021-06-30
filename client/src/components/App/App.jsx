@@ -8,7 +8,7 @@ axios
   .get('https://abcshopuk.herokuapp.com/api/products')
   .then((products) => {
     // custom consle
-    console.log(products);
+    console.log(products.data);
   })
   .catch((err) => {
     // custom consle
