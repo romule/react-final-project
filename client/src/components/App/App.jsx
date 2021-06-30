@@ -2,7 +2,7 @@ import './App.scss';
 import React from 'react';
 import Header from '../Header';
 
-const axios = require('axios').defualt;
+const axios = require('axios');
 
 axios
   .get('https://abcshopuk.herokuapp.com/api/products')
